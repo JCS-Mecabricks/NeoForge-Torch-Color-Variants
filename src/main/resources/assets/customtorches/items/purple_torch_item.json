@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "customtorches:item/purple_torch_item"
+  }
+}

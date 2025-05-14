@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:gold_ingot",
+    "minecraft:torch"
+  ],
+  "result": {
+    "count": 1,
+    "id": "customtorches:yellow_torch_item"
+  }
+}
